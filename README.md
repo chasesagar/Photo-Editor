@@ -1,10 +1,10 @@
 
-# Amazon Scraper
-This tool uses different `scraping tools` like `selenium` and `beautifulsoup` to fetch data from amazon and other platforms and show statistics generated based on that gathered infromation which can be seen the demo images below.
+# Photo Editor React
+Photo editor is a as name tells a photo editing powered by react which enable real time editing of some basic photograph editing properties like `Brightness`, `Saturation`, `Contract`, `Blur` etc using css modification.
 
 ## About
 
-Django based scrping project which used to fetch a product `Image`, `Minimum price`,`Maximum Price`, `Average price` and also send you a email notification of your expected price this project uses many different tools and can be used for eductional and learning purpose only. And if you are my code a mention would be much apperciated.
+This application demonstrate basic react concepts like `Hooks`, `Up liftinng State`, `initlizing of state`,`functions`, `Arrow functions`, `React Callback approach`, `State`, `Props`, `Keeping data Unmutated`, and `Property Initializers`. This project uses many different tools and can be used for eductional and learning purpose only. And if you are my code a mention would be much apperciated.
 
 ## Languages and Tools Used:
 
@@ -31,42 +31,37 @@ Django based scrping project which used to fetch a product `Image`, `Minimum pri
 <br />
 <br />
 
-
-## Prerequisite
-
-* Python installed on your machine
-
-* basic programming knowledge of python and web scapping.
-
-* Motivation & desire to learn something new, that's all folks, let's get started.
-
-* first install a virtual envirmoment through command line using command mentioned below.
-`pip install virtualenvwrapper-win`
-
-* create a user using below command
-`mkvirtualenv name of your choice`
-
-* Running virtual enviroment
-`workon name you choosed above`
-
-* Install required files using below command.
-`pip install -r requirements.txt`
-
-* Run server using command
-`python manage.py runserver`
-
-* The server is now running at [localhost:8000](localhost:8000)
-
-
 ## Demo
 
-![Product Image](https://github.com/chasesagar/Amazon-Scraper/blob/master/demo-1.png)
-![Product Image](https://github.com/chasesagar/Amazon-Scraper/blob/master/demo-2.png)
+![Product Gif](https://github.com/chasesagar/Photo-Editor/blob/master/demo.gif)
+
+
+## Running the app
+
+* Ensure you have [NPM](https://github.com/npm/npm) installed.
+
+* Download or Clone Repository from [here](#quick-start)
+
+* Install required `node-modules` by running below command
+
+````
+npm install
+````
+
+* Boot the server using command:
+
+````
+npm start
+````
+
+* The server is now running at [localhost:3000](localhost:3000)
+
+
 
 ## Quick Start
 
-- [Download from Github](https://github.com/chasesagar/Amazon-Scraper/archive/master.zip).
-- Clone the repo: `git clone https://github.com/chasesagar/Amazon-Scraper.git`.
+- [Download from Github](https://github.com/chasesagar/Photo-Editor/archive/master.zip).
+- Clone the repo: `git clone https://github.com/chasesagar/Photo-Editor.git`.
 
 
 
@@ -104,6 +99,12 @@ See also the list of contributors who participated in this project.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/chasesagar/Amazon-Scraper/blob/master/LICENSE) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/chasesagar/Photo-Editor/blob/master/LICENSE) file for details
+
+## Acknowledgements
+
+* **Web Dev Simplified Youtube Channel**
+
+
 
 

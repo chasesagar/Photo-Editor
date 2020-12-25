@@ -3,6 +3,10 @@
   height: 85vh;
 }
 
+.btn{
+  width: 120px;
+}
+
 .main-image {
   height: 85vh;
   width: auto;

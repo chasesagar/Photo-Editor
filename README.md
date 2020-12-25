@@ -1,6 +1,6 @@
 
 # Photo Editor React
-Photo editor is a as name tells a photo editing powered by react which enable real time editing of some basic photograph editing properties like `Brightness`, `Saturation`, `Contract`, `Blur` etc using css modification.
+Photo editor is as the name tells a photo editing powered by React which enables real-time editing of some basic photograph editing properties like **Brightness, Saturation, Contrast, Blur**, etc using CSS modification.
 
 ## About
 
